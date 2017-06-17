@@ -1,0 +1,6 @@
+elasticsearch
+nltk
+bs4
+lxml
+six
+html5lib

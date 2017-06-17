@@ -1,0 +1,9 @@
+/index/*
+/input/*
+/temp/*
+/output/*
+/metastore_db/
+/.ipynb_checkpoints/
+.idea/
+__pycache__/
+*.pyc
